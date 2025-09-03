@@ -1,7 +1,3 @@
 Hello world!
-<<<<<<< HEAD
 This is a new line.
 Hi!!!!!!
-=======
-This is a new line.
->>>>>>> fcc3a49 (New train)
